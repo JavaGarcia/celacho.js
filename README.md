@@ -1,4 +1,4 @@
 celacho.js
 ==========
-
-Celador de procesos en la nube
+BETA
+Celador de procesos en la nube (tor-proxy - ngrok) Openshift
